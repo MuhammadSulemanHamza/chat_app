@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673911902867",
+    "project_id": "flash-chat-5284d",
+    "storage_bucket": "flash-chat-5284d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673911902867:android:cb56f335676e0a3ba1b366",
+        "android_client_info": {
+          "package_name": "co.pixelperfect.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673911902867-9k33sg07l5ubg5ueuk7epv5g1el46p98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLj0Ds8-8A-8u8rOTsiwhj-bAYFwzdntQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673911902867-9k33sg07l5ubg5ueuk7epv5g1el46p98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
